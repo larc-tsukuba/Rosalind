@@ -13,8 +13,8 @@ https://rosalind.info/problems/list-view/
 |      | 002-REVC |  松本  |
 |      | 003-FIB  | 滝   |
 |      | 004-GC   |  滝  |
-|      | 005-HAMM |  久野  |
-|      | 006-IPRB |  久野  |
+|  ☑    | 005-HAMM |  久野  |
+|  ☑    | 006-IPRB |  久野  |
 |      | 007-PROT |    |
 |      | 008-SUBS |    |
 |      | 009-CONS |    |
