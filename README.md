@@ -9,8 +9,8 @@ https://rosalind.info/problems/list-view/
 | チェック |  問題      | 担当 |
 | ---- | -------- | -- |
 | ☑    | 000-DNA  |  久野  |
-|      | 001-RNA  |  松本  |
-|      | 002-REVC |  松本  |
+| ☑    | 001-RNA  |  松本  |
+| ☑    | 002-REVC |  松本  |
 |      | 003-FIB  | 滝   |
 |      | 004-GC   |  滝  |
 |  ☑    | 005-HAMM |  久野  |
