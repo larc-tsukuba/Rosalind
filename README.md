@@ -11,16 +11,16 @@ https://rosalind.info/problems/list-view/
 | ☑    | 000-DNA  |  久野  |
 | ☑    | 001-RNA  |  松本  |
 | ☑    | 002-REVC |  松本  |
-|      | 003-FIB  | 滝   |
-|      | 004-GC   |  滝  |
-|  ☑    | 005-HAMM |  久野  |
-|  ☑    | 006-IPRB |  久野  |
-|      | 007-PROT |    |
-|      | 008-SUBS |    |
-|      | 009-CONS |    |
-|      | 010-FIBD |    |
-|      | 011-GRPH |    |
-|      | 012-IEV  |    |
+|  ☑    | 003-FIB  | 滝   |
+|     | 004-GC   |  滝  |
+|      | 005-HAMM |  久野  |
+|      | 006-IPRB |  久野  |
+|      | 007-PROT |  松本  |
+|      | 008-SUBS |  松本  |
+|      | 009-CONS |  滝  |
+|      | 010-FIBD |  滝  |
+|      | 011-GRPH |  久野  |
+|      | 012-IEV  |  久野  |
 |      | 013-LCSM |    |
 |      | 014-LIA  |    |
 |      | 015-MPRT |    |
