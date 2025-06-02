@@ -19,12 +19,14 @@ https://rosalind.info/problems/list-view/
 | 008-SUBS | 松本 |      |      |
 | 009-CONS | 滝   |      |      |
 | 010-FIBD | 滝   |      |      |
-| 011-GRPH | 久野 |  ☑    |      |
-| 012-IEV  | 久野 |   ☑   |      |
-| 013-LCSM |      |      |      |
-| 014-LIA  |      |      |      |
-| 015-MPRT |      |      |      |
-| 016-MRNA |      |      |      |
+| 011-GRPH | 久野 | ☑    |      |
+| 012-IEV  | 久野 | ☑    |      |
+| 013-LCSM | 松本 |      |      |
+| 014-LIA  | 松本 |      |      |
+| 010-FIBD | 滝   |      |      |
+| 010-FIBD | 滝   |      |      |
+| 015-MPRT | 久野 |      |      |
+| 016-MRNA | 久野 |      |      |
 | 017-ORF  |      |      |      |
 | 018-PERM |      |      |      |
 | 019-PRTM |      |      |      |
