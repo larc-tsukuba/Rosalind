@@ -15,8 +15,8 @@ https://rosalind.info/problems/list-view/
 | 004-GC   | 滝   | ☑    |      |
 | 005-HAMM | 久野 | ☑    |      |
 | 006-IPRB | 久野 | ☑    |      |
-| 007-PROT | 松本 |      |      |
-| 008-SUBS | 松本 |      |      |
+| 007-PROT | 松本 | ☑    |      |
+| 008-SUBS | 松本 | ☑    |      |
 | 009-CONS | 滝   |      |      |
 | 010-FIBD | 滝   |      |      |
 | 011-GRPH | 久野 | ☑    |      |
