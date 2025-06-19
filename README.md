@@ -23,12 +23,10 @@ https://rosalind.info/problems/list-view/
 | 012-IEV  | 久野 | ☑    |      |
 | 013-LCSM | 松本 |      |      |
 | 014-LIA  | 松本 |      |      |
-| 010-FIBD | 滝   |      |      |
-| 010-FIBD | 滝   |      |      |
-| 015-MPRT | 久野 |      |      |
-| 016-MRNA | 久野 |      |      |
-| 017-ORF  |      |      |      |
-| 018-PERM |      |      |      |
+| 015-MPRT | 滝 |      |      |
+| 016-MRNA | 滝 |      |      |
+| 017-ORF  |  久野   |      |      |
+| 018-PERM |  久野    |      |      |
 | 019-PRTM |      |      |      |
 | 020-REVP |      |      |      |
 | 021-SPLC |      |      |      |
