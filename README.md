@@ -17,8 +17,8 @@ https://rosalind.info/problems/list-view/
 | 006-IPRB | 久野 | ☑    |      |
 | 007-PROT | 松本 | ☑    |      |
 | 008-SUBS | 松本 | ☑    |      |
-| 009-CONS | 滝   |      |      |
-| 010-FIBD | 滝   |      |      |
+| 009-CONS | 滝   | ☑    |      |
+| 010-FIBD | 滝   |  ☑   |      |
 | 011-GRPH | 久野 | ☑    |      |
 | 012-IEV  | 久野 | ☑    |      |
 | 013-LCSM | 松本 |      |      |
