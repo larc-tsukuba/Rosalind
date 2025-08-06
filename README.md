@@ -21,8 +21,8 @@ https://rosalind.info/problems/list-view/
 | 010-FIBD | 滝   | ☑    |  ☑    | 2025-07-17           |
 | 011-GRPH | 久野 | ☑    |      |            |
 | 012-IEV  | 久野 | ☑    |      |            |
-| 013-LCSM | 松本 |      |      |            |
-| 014-LIA  | 松本 |      |      |            |
+| 013-LCSM | 松本 | ☑   |      |            |
+| 014-LIA  | 松本 | ☑   |      |            |
 | 015-MPRT | 滝   |      |      |            |
 | 016-MRNA | 滝   |      |      |            |
 | 017-ORF  | 久野 | ☑     |      |            |
@@ -113,3 +113,4 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
