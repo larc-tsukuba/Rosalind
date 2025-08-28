@@ -27,8 +27,8 @@ https://rosalind.info/problems/list-view/
 | 016-MRNA | 滝   | ☑    |      |            |
 | 017-ORF  | 久野 | ☑    |      |            |
 | 018-PERM | 久野 | ☑    |      |            |
-| 019-PRTM | 松本 |      |      |            |
-| 020-REVP | 松本 |      |      |            |
+| 019-PRTM | 松本 | ☑    |      |            |
+| 020-REVP | 松本 | ☑    |      |            |
 | 021-SPLC | 滝   |      |      |            |
 | 022-LEXF | 滝   |      |      |            |
 | 023-LGIS | 久野 |      |      |            |
