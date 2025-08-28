@@ -29,14 +29,14 @@ https://rosalind.info/problems/list-view/
 | 018-PERM | 久野 | ☑    |      |            |
 | 019-PRTM | 松本 | ☑    |      |            |
 | 020-REVP | 松本 | ☑    |      |            |
-| 021-SPLC | 滝   |      |      |            |
-| 022-LEXF | 滝   |      |      |            |
+| 021-SPLC | 滝   | ☑　  |      |            |
+| 022-LEXF | 滝   | ☑    |      |            |
 | 023-LGIS | 久野 |      |      |            |
 | 024-LONG | 久野 |      |      |            |
-| 025-PMCH |      |      |      |            |
-| 026-PPER |      |      |      |            |
-| 027-PROB |      |      |      |            |
-| 028-SIGN |      |      |      |            |
+| 025-PMCH | 松本 |      |      |            |
+| 026-PPER | 松本 |      |      |            |
+| 027-PROB | 滝   |      |      |            |
+| 028-SIGN | 滝   |      |      |            |
 | 029-SSEQ |      |      |      |            |
 | 030-TRAN |      |      |      |            |
 | 031-TREE |      |      |      |            |
@@ -113,5 +113,6 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
