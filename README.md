@@ -35,8 +35,8 @@ https://rosalind.info/problems/list-view/
 | 024-LONG | 久野 |      |      |            |
 | 025-PMCH | 松本 |      |      |            |
 | 026-PPER | 松本 |      |      |            |
-| 027-PROB | 滝   |      |      |            |
-| 028-SIGN | 滝   |      |      |            |
+| 027-PROB | 滝   | ☑   |      |            |
+| 028-SIGN | 滝   | ☑   |      |            |
 | 029-SSEQ | 久野 |      |      |            |
 | 030-TRAN | 久野 |      |      |            |
 | 031-TREE | 松本 |      |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
 
