@@ -31,7 +31,7 @@ https://rosalind.info/problems/list-view/
 | 020-REVP | 松本 | ☑    | ☑    | 2025-08-29 |
 | 021-SPLC | 滝   | ☑    |      |            |
 | 022-LEXF | 滝   | ☑    |      |            |
-| 023-LGIS | 久野 |      |      |            |
+| 023-LGIS | 久野 |  ☑    |      |            |
 | 024-LONG | 久野 |      |      |            |
 | 025-PMCH | 松本 |      |      |            |
 | 026-PPER | 松本 |      |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
 
