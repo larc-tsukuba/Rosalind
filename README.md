@@ -33,7 +33,7 @@ https://rosalind.info/problems/list-view/
 | 022-LEXF | 滝   | ☑    |      |            |
 | 023-LGIS | 久野 |  ☑    |      |            |
 | 024-LONG | 久野 |      |      |            |
-| 025-PMCH | 松本 |      |      |            |
+| 025-PMCH | 松本 | ☑   |      |            |
 | 026-PPER | 松本 |      |      |            |
 | 027-PROB | 滝   | ☑   |      |            |
 | 028-SIGN | 滝   | ☑   |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
 
