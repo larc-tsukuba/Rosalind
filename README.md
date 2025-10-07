@@ -43,12 +43,12 @@ https://rosalind.info/problems/list-view/
 | 032-CAT  | 松本 |      |      |            |
 | 033-CORR | 滝   |      |      |            |
 | 034-INOD | 滝   |      |      |            |
-| 035-KMER |      |      |      |            |
-| 036-KMP  |      |      |      |            |
-| 037-LCSQ |      |      |      |            |
-| 038-LEXV |      |      |      |            |
-| 039-MMCH |      |      |      |            |
-| 040-PDST |      |      |      |            |
+| 035-KMER | 久野 |      |      |            |
+| 036-KMP  | 松本 |      |      |            |
+| 037-LCSQ | 滝   |      |      |            |
+| 038-LEXV | 久野 |      |      |            |
+| 039-MMCH | 松本 |      |      |            |
+| 040-PDST | 滝   |      |      |            |
 | 041-REAR |      |      |      |            |
 | 042-RSTR |      |      |      |            |
 | 043-SSET |      |      |      |            |
