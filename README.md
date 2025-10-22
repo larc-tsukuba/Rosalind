@@ -43,7 +43,7 @@ https://rosalind.info/problems/list-view/
 | 032-CAT  | 松本 |      |      |            |
 | 033-CORR | 滝   |      |      |            |
 | 034-INOD | 滝   |      |      |            |
-| 035-KMER | 久野 |      |      |            |
+| 035-KMER | 久野 |  ☑    |      |            |
 | 036-KMP  | 松本 |      |      |            |
 | 037-LCSQ | 滝   |      |      |            |
 | 038-LEXV | 久野 |      |      |            |
