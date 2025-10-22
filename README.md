@@ -37,7 +37,7 @@ https://rosalind.info/problems/list-view/
 | 026-PPER | 松本 |      |      |            |
 | 027-PROB | 滝   | ☑    |      |            |
 | 028-SIGN | 滝   | ☑    |      |            |
-| 029-SSEQ | 久野 |      |      |            |
+| 029-SSEQ | 久野 | ☑    |      |            |
 | 030-TRAN | 久野 | ☑    |      |            |
 | 031-TREE | 松本 |      |      |            |
 | 032-CAT  | 松本 |      |      |            |
