@@ -37,8 +37,8 @@ https://rosalind.info/problems/list-view/
 | 026-PPER | 松本 | ☑    | ☑    | 2025-11-14 |
 | 027-PROB | 滝   | ☑    | ☑    | 2025-11-14 |
 | 028-SIGN | 滝   | ☑    | ☑    | 2025-11-14 |
-| 029-SSEQ | 久野 | ☑    |      |            |
-| 030-TRAN | 久野 | ☑    |      |            |
+| 029-SSEQ | 久野 | ☑    | ☑     |  2025-11-27           |
+| 030-TRAN | 久野 | ☑    |   ☑   |  2025-11-27          |
 | 031-TREE | 松本 |      |      |            |
 | 032-CAT  | 松本 |      |      |            |
 | 033-CORR | 滝   |      |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
 
