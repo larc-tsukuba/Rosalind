@@ -41,7 +41,7 @@ https://rosalind.info/problems/list-view/
 | 030-TRAN | 久野 | ☑    | ☑    | 2025-11-27 |
 | 031-TREE | 松本 | ☑    |      |            |
 | 032-CAT  | 松本 |      |      |            |
-| 033-CORR | 滝   |      |      |            |
+| 033-CORR | 滝   | ☑   |      |            |
 | 034-INOD | 滝   | ☑    | ☑    | 2025/11/27 |
 | 035-KMER | 久野 | ☑    |      |            |
 | 036-KMP  | 松本 |      |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
 
