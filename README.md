@@ -42,7 +42,7 @@ https://rosalind.info/problems/list-view/
 | 031-TREE | 松本 | ☑    | ☑    | 2025-12-23 |
 | 032-CAT  | 松本 | ☑    | ☑    | 2025-12-23 |
 | 033-CORR | 滝   | ☑    |  ☑    | 2026-01-05           |
-| 034-INOD | 滝   | ☑    | ☑    | 2025/11/27 |
+| 034-INOD | 滝   | ☑    | ☑    | 2025-11-27 |
 | 035-KMER | 久野 | ☑    |      |            |
 | 036-KMP  | 松本 |      |      |            |
 | 037-LCSQ | 滝   | ☑    |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
 
