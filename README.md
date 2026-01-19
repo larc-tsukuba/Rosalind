@@ -87,7 +87,7 @@ https://rosalind.info/problems/list-view/
 | 076-EUBT |      |      |      |            |
 | 077-GASM |      |      |      |            |
 | 078-GCON |      |      |      |            |
-| 079-LING |  滝  |      |      |            |
+| 079-LING |  滝  |  ☑   |      |            |
 | 080-LOCA |      |      |      |            |
 | 081-MEND |      |      |      |            |
 | 082-MGAP |      |      |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF |      |      |      |            |
 | 103-OSYM |      |      |      |            |
 | 104-RSUB |      |      |      |            |
+
 
 
 
