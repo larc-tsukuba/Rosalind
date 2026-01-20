@@ -44,7 +44,7 @@ https://rosalind.info/problems/list-view/
 | 033-CORR | 滝   | ☑    |  ☑    | 2026-01-05           |
 | 034-INOD | 滝   | ☑    | ☑    | 2025-11-27 |
 | 035-KMER | 久野 | ☑    |      |            |
-| 036-KMP  | 松本 |      |      |            |
+| 036-KMP  | 松本 | ☑    |      |            |
 | 037-LCSQ | 滝   | ☑    |      |            |
 | 038-LEXV | 久野 | ☑    |      |            |
 | 039-MMCH | 松本 |      |      |            |
