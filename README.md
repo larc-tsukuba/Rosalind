@@ -52,7 +52,7 @@ https://rosalind.info/problems/list-view/
 | 041-REAR | 久野 | ☑    |      |            |
 | 042-RSTR | 松本 |      |      |            |
 | 043-SSET | 滝   |      |      |            |
-| 044-ASPC | 久野 |      |      |            |
+| 044-ASPC | 久野 | ☑    |      |            |
 | 045-EDIT | 松本 |      |      |            |
 | 046-EVAL | 滝   |      |      |            |
 | 047-MOTZ | 久野 |      |      |            |
