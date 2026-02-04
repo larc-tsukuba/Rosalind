@@ -45,7 +45,7 @@ https://rosalind.info/problems/list-view/
 | 034-INOD | 滝   | ☑    | ☑    | 2025-11-27 |
 | 035-KMER | 久野 | ☑    | ☑    | 2026-01-21 |
 | 036-KMP  | 松本 | ☑    | ☑    | 2026-01-21 |
-| 037-LCSQ | 滝   | ☑    |      |            |
+| 037-LCSQ | 滝   | ☑    |  ☑    |  2026-02-04          |
 | 038-LEXV | 久野 | ☑    |      |            |
 | 039-MMCH | 松本 | ☑    |      |            |
 | 040-PDST | 滝   |      |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF | 松本 |      |      |            |
 | 103-OSYM | 滝   |      |      |            |
 | 104-RSUB | 久野 |      |      |            |
+
 
 
 
