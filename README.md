@@ -50,7 +50,7 @@ https://rosalind.info/problems/list-view/
 | 039-MMCH | 松本 | ☑    |      |            |
 | 040-PDST | 滝   |      |      |            |
 | 041-REAR | 久野 | ☑    |      |            |
-| 042-RSTR | 松本 |      |      |            |
+| 042-RSTR | 松本 | ☑    |      |            |
 | 043-SSET | 滝   |      |      |            |
 | 044-ASPC | 久野 | ☑    |      |            |
 | 045-EDIT | 松本 |      |      |            |
