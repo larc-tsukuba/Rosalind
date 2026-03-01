@@ -48,7 +48,7 @@ https://rosalind.info/problems/list-view/
 | 037-LCSQ | 滝   | ☑    | ☑    | 2026-02-04 |
 | 038-LEXV | 久野 | ☑    | ☑    | 2026-02-18 |
 | 039-MMCH | 松本 | ☑    |      |            |
-| 040-PDST | 滝   |      |      |            |
+| 040-PDST | 滝   | ☑    |      |            |
 | 041-REAR | 久野 | ☑    |      |            |
 | 042-RSTR | 松本 | ☑    |      |            |
 | 043-SSET | 滝   |      |      |            |
@@ -113,6 +113,7 @@ https://rosalind.info/problems/list-view/
 | 102-LAFF | 松本 |      |      |            |
 | 103-OSYM | 滝   |      |      |            |
 | 104-RSUB | 久野 |      |      |            |
+
 
 
 
