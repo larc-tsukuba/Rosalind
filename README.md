@@ -51,7 +51,7 @@ https://rosalind.info/problems/list-view/
 | 040-PDST | 滝   | ☑    |      |            |                                |
 | 041-REAR | 久野 | ☑    |      |            |                                |
 | 042-RSTR | 松本 | ☑    |      |            |                                |
-| 043-SSET | 滝   |      |      |            |                                |
+| 043-SSET | 滝   | ☑    |      |            | 説明することがないくらい簡単です．|
 | 044-ASPC | 久野 | ☑    |      |            |                                |
 | 045-EDIT | 松本 |      |      |            |                                |
 | 046-EVAL | 滝   |      |      |            |                                |
@@ -87,7 +87,7 @@ https://rosalind.info/problems/list-view/
 | 076-EUBT | 滝   |      |      |            |                                |
 | 077-GASM | 久野 |      |      |            |                                |
 | 078-GCON | 松本 |      |      |            |                                |
-| 079-LING | 滝   | ☑    |      |            |                                |
+| 079-LING | 滝   | ☑   |      |            |                                |
 | 080-LOCA | 久野 |      |      |            |                                |
 | 081-MEND | 松本 |      |      |            |                                |
 | 082-MGAP | 滝   |      |      |            |                                |
