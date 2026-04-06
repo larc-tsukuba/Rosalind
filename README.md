@@ -64,7 +64,7 @@ https://rosalind.info/problems/list-view/
 | 053-TRIE | 久野 |      |      |            |                                    |
 | 054-CONV | 松本 |      |      |            |                                    |
 | 055-CTBL | 滝   |      |      |            |                                    |
-| 056-DBRU | 久野 |      |      |            |                                    |
+| 056-DBRU | 久野 | ☑    |      |            | de Bruijn グラフ。解法は簡単です。 |
 | 057-EDTA | 松本 |      |      |            |                                    |
 | 058-FULL | 滝   |      |      |            |                                    |
 | 059-INDC | 久野 |      |      |            |                                    |
