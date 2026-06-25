@@ -49,7 +49,7 @@ https://rosalind.info/problems/list-view/
 | [038-LEXV](https://github.com/larc-tsukuba/Rosalind/tree/main/038-LEXV) | 久野 | ☑    | ☑    | 2026-02-18 | DFS                                |
 | [039-MMCH](https://github.com/larc-tsukuba/Rosalind/tree/main/039-MMCH) | 松本 | ☑    | ☑    | 2026-03-02 |                                    |
 | [040-PDST](https://github.com/larc-tsukuba/Rosalind/tree/main/040-PDST) | 滝   | ☑    | ☑    | 2026-03-02 |                                    |
-| [041-REAR](https://github.com/larc-tsukuba/Rosalind/tree/main/041-REAR) | 久野 | ☑    |      |            | BFS（双方向BFS）                   |
+| [041-REAR](https://github.com/larc-tsukuba/Rosalind/tree/main/041-REAR) | 久野 | ☑    | ☑    | 2026-06-25 | BFS（双方向BFS）                   |
 | [042-RSTR](https://github.com/larc-tsukuba/Rosalind/tree/main/042-RSTR) | 松本 | ☑    | ☑    | 2026-04-08 | 余事象の確率                       |
 | [043-SSET](https://github.com/larc-tsukuba/Rosalind/tree/main/043-SSET) | 滝   | ☑    | ☑    | 2026-03-18 | 説明することがないくらい簡単です． |
 | [044-ASPC](https://github.com/larc-tsukuba/Rosalind/tree/main/044-ASPC) | 久野 | ☑    |      |            |                                    |
