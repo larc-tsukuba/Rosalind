@@ -59,7 +59,7 @@ https://rosalind.info/problems/list-view/
 | [048-NWCK](https://github.com/larc-tsukuba/Rosalind/tree/main/048-NWCK) | 松本 | ☑    | ☑    | 2026-05-22 | Newickグラフ                       |
 | [049-SCSP](https://github.com/larc-tsukuba/Rosalind/tree/main/049-SCSP) | 滝   |      |      |            |                                    |
 | [050-SETO](https://github.com/larc-tsukuba/Rosalind/tree/main/050-SETO) | 久野 | ☑    | ☑    | 2026-03-18 | 集合の基本操作。簡単すぎます。     |
-| [051-SORT](https://github.com/larc-tsukuba/Rosalind/tree/main/051-SORT) | 松本 |      |      |            |                                    |
+| [051-SORT](https://github.com/larc-tsukuba/Rosalind/tree/main/051-SORT) | 松本 | ☑   |      |            |                                    |
 | [052-SPEC](https://github.com/larc-tsukuba/Rosalind/tree/main/052-SPEC) | 滝   |      |      |            |                                    |
 | [053-TRIE](https://github.com/larc-tsukuba/Rosalind/tree/main/053-TRIE) | 久野 |      |      |            |                                    |
 | [054-CONV](https://github.com/larc-tsukuba/Rosalind/tree/main/054-CONV) | 松本 |      |      |            |                                    |
