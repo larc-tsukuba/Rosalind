@@ -52,12 +52,12 @@ https://rosalind.info/problems/list-view/
 | [041-REAR](https://github.com/larc-tsukuba/Rosalind/tree/main/041-REAR) | 久野 | ☑    | ☑    | 2026-06-25 | BFS（双方向BFS）                   |
 | [042-RSTR](https://github.com/larc-tsukuba/Rosalind/tree/main/042-RSTR) | 松本 | ☑    | ☑    | 2026-04-08 | 余事象の確率                       |
 | [043-SSET](https://github.com/larc-tsukuba/Rosalind/tree/main/043-SSET) | 滝   | ☑    | ☑    | 2026-03-18 | 説明することがないくらい簡単です． |
-| [044-ASPC](https://github.com/larc-tsukuba/Rosalind/tree/main/044-ASPC) | 久野 | ☑    |      |            |                                    |
+| [044-ASPC](https://github.com/larc-tsukuba/Rosalind/tree/main/044-ASPC) | 久野 | ☑    | ☑    |            |                                    |
 | [045-EDIT](https://github.com/larc-tsukuba/Rosalind/tree/main/045-EDIT) | 松本 | ☑    | ☑    | 2026-04-08 | レーベンシュタイン距離。THE DP！   |
-| [046-EVAL](https://github.com/larc-tsukuba/Rosalind/tree/main/046-EVAL) | 滝   | ☑    |      |            | 入試の数学にありそうで楽しい．     |
+| [046-EVAL](https://github.com/larc-tsukuba/Rosalind/tree/main/046-EVAL) | 滝   | ☑    |☑     |            | 入試の数学にありそうで楽しい．     |
 | [047-MOTZ](https://github.com/larc-tsukuba/Rosalind/tree/main/047-MOTZ) | 久野 | ☑    |      |            | モツキン数。区間DP                 |
 | [048-NWCK](https://github.com/larc-tsukuba/Rosalind/tree/main/048-NWCK) | 松本 | ☑    | ☑    | 2026-05-22 | Newickグラフ                       |
-| [049-SCSP](https://github.com/larc-tsukuba/Rosalind/tree/main/049-SCSP) | 滝   |      |      |            |                                    |
+| [049-SCSP](https://github.com/larc-tsukuba/Rosalind/tree/main/049-SCSP) | 滝   | ☑    |      |            |                                    |
 | [050-SETO](https://github.com/larc-tsukuba/Rosalind/tree/main/050-SETO) | 久野 | ☑    | ☑    | 2026-03-18 | 集合の基本操作。簡単すぎます。     |
 | [051-SORT](https://github.com/larc-tsukuba/Rosalind/tree/main/051-SORT) | 松本 | ☑   |      |            |  BFS                                |
 | [052-SPEC](https://github.com/larc-tsukuba/Rosalind/tree/main/052-SPEC) | 滝   |      |      |            |                                    |
