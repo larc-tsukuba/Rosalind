@@ -62,7 +62,7 @@ https://rosalind.info/problems/list-view/
 | [051-SORT](https://github.com/larc-tsukuba/Rosalind/tree/main/051-SORT) | 松本 | ☑   |      |            |  BFS                                |
 | [052-SPEC](https://github.com/larc-tsukuba/Rosalind/tree/main/052-SPEC) | 滝   |      |      |            |                                    |
 | [053-TRIE](https://github.com/larc-tsukuba/Rosalind/tree/main/053-TRIE) | 久野 |      |      |            |                                    |
-| [054-CONV](https://github.com/larc-tsukuba/Rosalind/tree/main/054-CONV) | 松本 |      |      |            |                                    |
+| [054-CONV](https://github.com/larc-tsukuba/Rosalind/tree/main/054-CONV) | ~~松本~~ 竹尾 |      |      |            |                                    |
 | [055-CTBL](https://github.com/larc-tsukuba/Rosalind/tree/main/055-CTBL) | 滝   |      |      |            |                                    |
 | [056-DBRU](https://github.com/larc-tsukuba/Rosalind/tree/main/056-DBRU) | 久野 | ☑    |      |            | de Bruijn グラフ。解法は簡単です。 |
 | [057-EDTA](https://github.com/larc-tsukuba/Rosalind/tree/main/057-EDTA) | 松本 |      |      |            |                                    |
@@ -72,7 +72,7 @@ https://rosalind.info/problems/list-view/
 | [061-LREP](https://github.com/larc-tsukuba/Rosalind/tree/main/061-LREP) | 滝   |      |      |            |                                    |
 | [062-NKEW](https://github.com/larc-tsukuba/Rosalind/tree/main/062-NKEW) | 久野 |      |      |            |                                    |
 | [063-RNAS](https://github.com/larc-tsukuba/Rosalind/tree/main/063-RNAS) | 松本 |      |      |            |                                    |
-| [064-AFRQ](https://github.com/larc-tsukuba/Rosalind/tree/main/064-AFRQ) | 滝   |      |      |            |                                    |
+| [064-AFRQ](https://github.com/larc-tsukuba/Rosalind/tree/main/064-AFRQ) | ~~滝~~ 竹尾   |      |      |            |                                    |
 | [065-CSTR](https://github.com/larc-tsukuba/Rosalind/tree/main/065-CSTR) | 久野 |      |      |            |                                    |
 | [066-CTEA](https://github.com/larc-tsukuba/Rosalind/tree/main/066-CTEA) | 松本 |      |      |            |                                    |
 | [067-CUNR](https://github.com/larc-tsukuba/Rosalind/tree/main/067-CUNR) | 滝   |      |      |            |                                    |
