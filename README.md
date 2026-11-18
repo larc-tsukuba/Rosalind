@@ -60,8 +60,8 @@ https://rosalind.info/problems/list-view/
 | [049-SCSP](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/049-SCSP) | 滝   | ☑    | ☑    |  2026-09-18          |                                    |
 | [050-SETO](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/050-SETO) | 久野 | ☑    | ☑    | 2026-03-18 | 集合の基本操作。簡単すぎます。     |
 | [051-SORT](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/051-SORT) | 松本 | ☑   |  ☑    |  2026-10-01       |  BFS                                |
-| [052-SPEC](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/052-SPEC) | 滝   |      |      |            |                                    |
-| [053-TRIE](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/053-TRIE) | 久野 | ☑     |      |  Trie木の導入          |                                    |
+| [052-SPEC](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/052-SPEC) | 滝   | ☑     |  ☑    | 2026-11-18           |                                    |
+| [053-TRIE](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/053-TRIE) | 久野 | ☑     |   ☑   |  2026-11-18          | Trie木の導入                                   |
 | [054-CONV](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/054-CONV) | ~~松本~~ 竹尾 |      |      |            |                                    |
 | [055-CTBL](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/055-CTBL) | 滝   |      |      |            |                                    |
 | [056-DBRU](https://github.com/larc-tsukuba/Rosalind/tree/main/Problems/056-DBRU) | 久野 | ☑    |      |            | de Bruijn グラフ。解法は簡単です。 |
